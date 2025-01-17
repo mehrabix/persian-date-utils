@@ -127,16 +127,3 @@ This library leverages the following:
 - Pure JavaScript methods for all computations and conversions.
 
 ---
-
-```
-
-### What’s Included
-- **Introduction**: Describes the purpose of the library.
-- **Features**: Highlights the key functionalities.
-- **Installation**: Explains how to add the library to a project.
-- **Usage Examples**: Demonstrates common use cases.
-- **API Documentation**: Provides details for each exported function.
-- **Contributing**: Encourages community involvement.
-- **License**: Specifies licensing details.
-
-This `README.md` is ready to be included in your GitHub repository and provides a comprehensive overview of your library. Let me know if you'd like to tweak any part!
